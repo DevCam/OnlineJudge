@@ -3,7 +3,7 @@
 [![Python](https://img.shields.io/badge/python-3.6.2-blue.svg?style=flat-square)](https://www.python.org/downloads/release/python-362/)
 [![Django](https://img.shields.io/badge/django-1.11.4-blue.svg?style=flat-square)](https://www.djangoproject.com/)
 [![Django Rest Framework](https://img.shields.io/badge/django_rest_framework-3.4.0-blue.svg?style=flat-square)](http://www.django-rest-framework.org/)
-[![Build Status](https://travis-ci.org/DevCam/OnlineJudge.svg?branch=master)](https://travis-ci.org/DevCam/OnlineJudge)
+[![Build Status](https://travis-ci.com/DevCam/OnlineJudge.svg?branch=master)](https://travis-ci.com/DevCam/OnlineJudge)
 
 > #### An onlinejudge system based on Python and Vue. [Demo](https://qduoj.com)
 
